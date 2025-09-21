@@ -24,7 +24,7 @@ A fun and fast-paced typing game built with **Java Swing**. Type the moving word
 | ![](screenshots/welcome.png) 
 | In-Game |
 |----------------|
-| ![](screenshots/gameplay.png) |
+| ![](screenshots/gameplay.PNG) |
 
 ---
 
