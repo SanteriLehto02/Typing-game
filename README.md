@@ -17,11 +17,14 @@ A fun and fast-paced typing game built with **Java Swing**. Type the moving word
 
 ## 🖥️ Screenshots
 
-> *(Add your screenshots to a `screenshots/` folder and link them here)*
 
-| Welcome Screen | In-Game |
-|----------------|---------|
-| ![](screenshots/welcome.png) | ![](screenshots/gameplay.png) |
+
+| Welcome Screen |
+|----------------|
+| ![](screenshots/welcome.png) 
+| In-Game |
+|----------------|
+| ![](screenshots/gameplay.png) |
 
 ---
 
